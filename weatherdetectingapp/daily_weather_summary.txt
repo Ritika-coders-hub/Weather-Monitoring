@@ -1,0 +1,10 @@
+Average Temperature: 25.07000000000005°C
+Max Temperature: 25.07000000000005°C
+Min Temperature: 25.07000000000005°C
+Dominant Weather Condition: Clear
+---------------------------------
+Average Temperature: 26.100000000000023°C
+Max Temperature: 26.100000000000023°C
+Min Temperature: 26.100000000000023°C
+Dominant Weather Condition: Clear
+---------------------------------
