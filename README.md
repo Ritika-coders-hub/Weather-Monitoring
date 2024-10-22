@@ -1,4 +1,4 @@
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
 
 This project is a Real-Time Data Processing System designed to monitor weather conditions using the OpenWeatherMap API. The system continuously retrieves and processes weather data for major metropolitan cities in India. Key features include daily weather summaries, alerting thresholds, and visualizations.
 
