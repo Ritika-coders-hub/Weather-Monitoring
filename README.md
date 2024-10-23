@@ -18,6 +18,7 @@ Temperature Conversion: Converts temperatures from Kelvin to Celsius or Fahrenhe
 
 Data Visualization: Displays daily weather summaries and historical trends.
 
+![resize weather app](https://github.com/user-attachments/assets/10c49f69-638f-41d5-a9df-27c1230c3a7e)
 
 How It Works:
 
