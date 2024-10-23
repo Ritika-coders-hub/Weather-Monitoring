@@ -12,21 +12,21 @@ Calculates daily aggregates such as average, minimum, and maximum temperature.
 Determines the dominant weather condition of the day.
 
 Alerting System:
+
 Allows configurable thresholds (e.g., alerts for temperatures exceeding 35°C) and triggers alerts when conditions are met.
 
 Temperature Conversion: Converts temperatures from Kelvin to Celsius or Fahrenheit based on user preference.
 
 Data Visualization: Displays daily weather summaries and historical trends.
-![resize weather app](https://github.com/user-attachments/assets/10c49f69-638f-41d5-a9df-27c1230c3a7e)
 How It Works:
+* Data Collection: The system fetches data from OpenWeatherMap at configurable intervals.
+* Daily Summaries: Aggregates weather data daily, calculating average, maximum, minimum temperatures, and dominant weather conditions.
+* Alerting: Users can set temperature or weather condition thresholds, triggering notifications when limits are breached.
+  User Interface:
+ A simple GUI allows users to input cities and view real-time weather updates.
 
-Data Collection: The system fetches data from OpenWeatherMap at configurable intervals.
+![Weather-Forecast-Mobile-App](https://github.com/user-attachments/assets/dcbd17a8-a6f8-4181-a0e7-a75b28d0dd21)
 
-Daily Summaries: Aggregates weather data daily, calculating average, maximum, minimum temperatures, and dominant weather conditions.
-
-Alerting: Users can set temperature or weather condition thresholds, triggering notifications when limits are breached.
-
-User Interface: A simple GUI allows users to input cities and view real-time weather updates.
 
 
 
