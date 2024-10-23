@@ -17,7 +17,6 @@ Allows configurable thresholds (e.g., alerts for temperatures exceeding 35°C) a
 Temperature Conversion: Converts temperatures from Kelvin to Celsius or Fahrenheit based on user preference.
 
 Data Visualization: Displays daily weather summaries and historical trends.
-![Weather-Forecast-Mobile-App](https://github.com/user-attachments/assets/8ecec641-eec2-490b-9342-1084321130f6)
 
 
 How It Works:
