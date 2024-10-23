@@ -13,9 +13,13 @@ Determines the dominant weather condition of the day.
 
 Alerting System:
 Allows configurable thresholds (e.g., alerts for temperatures exceeding 35°C) and triggers alerts when conditions are met.
+
 Temperature Conversion: Converts temperatures from Kelvin to Celsius or Fahrenheit based on user preference.
+
 Data Visualization: Displays daily weather summaries and historical trends.
+
 ![resize weather app](https://github.com/user-attachments/assets/10c49f69-638f-41d5-a9df-27c1230c3a7e)
+
 How It Works:
 Data Collection: The system fetches data from OpenWeatherMap at configurable intervals.
 
